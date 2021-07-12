@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently a student of Ege Universty
 - 👀 I’m interested in JavaScript,ReactJS,HTML,CSS,Bootstrap
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript,ReactJS
 - 📫 How to reach me: mertfaikcigdem@yahoo.com
 
 ---
