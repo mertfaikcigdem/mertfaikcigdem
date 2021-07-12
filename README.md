@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/mertfaikcigdem/">
   <img align="left" alt="Mert's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
-
+</br>
 ---
 
 ### Languages and Tools 🛠 
