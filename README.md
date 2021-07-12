@@ -9,6 +9,26 @@
 
 ---
 
+### Connect with me🤝
+
+<a href="https://github.com/mertfaikcigdem">
+  <img align="left" alt="Mert's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+</a>
+
+<a href="https://instagram.com/mertfaikcigdem/">
+  <img align="left" alt="Mert's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+</a>
+
+<a href="https://twitter.com/mertfaikcigdem">
+  <img align="left" alt="Mert's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
+</a>
+
+<a href="https://linkedin.com/in/mertfaikcigdem/">
+  <img align="left" alt="Mert's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+</a>
+
+---
+
 ### Languages and Tools 🛠 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
