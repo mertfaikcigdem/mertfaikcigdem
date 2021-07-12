@@ -48,11 +48,11 @@
 ### Github Activity ✔
 
 <a href="https://github.com/mertfaikcigdem">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertfaikcigdem&theme=tokyonight" />
   </a>
 
 <a href="https://github.com/mertfaikcigdem">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mertfaikcigdem&show_icons=true&theme=tokyonight&line_height=27" alt="Mert's github stats"/>
 </a>
 
 <!--
