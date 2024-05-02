@@ -4,7 +4,7 @@
 
 - 🔭 I graduated from Ege University Computer Programming Department
 - 👀 I’m interested in JavaScript,ReactJS,NodeJS,TypeScript,Redux
-- 🌱 I’m currently learning JavaScript,ReactJS
+- 🌱 I have been working as Front-End Developer for 3 years
 - 📫 How to reach me: mertfaikcigdem@gmail.com
 
 ---
