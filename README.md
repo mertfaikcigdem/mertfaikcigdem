@@ -2,8 +2,8 @@
 
 ---
 
-- 🔭 I’m currently a student of Ege Universty
-- 👀 I’m interested in JavaScript,ReactJS,HTML,CSS,Bootstrap
+- 🔭 I graduated from Ege University Computer Programming Department
+- 👀 I’m interested in JavaScript,ReactJS,NodeJS,TypeScript,Redux
 - 🌱 I’m currently learning JavaScript,ReactJS
 - 📫 How to reach me: mertfaikcigdem@gmail.com
 
@@ -37,7 +37,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
